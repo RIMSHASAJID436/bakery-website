@@ -4,10 +4,10 @@ body{
 nav{
     display: flex;
     padding: 30px;
-    width: 97%;
+    width: 95%;
 }
 .pages #h{
-    margin-left: 280px;
+    margin-left: 250px;
     text-decoration: none;
     font-size: x-large;
 
@@ -24,7 +24,7 @@ nav a{
     font-size: x-large;
 }
 .icon .fa-magnifying-glass{
-    margin-left: 200px;
+    margin-left: 150px;
     font-size: large;
 }
 #home-img{
@@ -123,6 +123,7 @@ hr{
 }
 .about-f{
     display: flex;
+    width: 95%;
 }
 .about-f img{
     margin-left: 40px;
@@ -217,8 +218,9 @@ h3{
 .first-b,.sec-b,.th-b,.f-b{
     width: 15%;
   text-align: justify;
-  margin-left: -70px;
+  margin-left: -100px;
   align-items: center;
+ 
 }
 h4{
    text-align: left;
